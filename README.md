@@ -9,13 +9,13 @@ APIs:
 - Recuperar la primera palabra del hecho
 - Muestra una imagen de un gato con la primera palabra.
 
-Pasos: 
+### Pasos: 
 
 **1.- Create react project**
 ```
     npm create vite@lastest -> Vanilla(No react template) 
 ```
-**2.- Install react plugin & dependencies()**
+**2.- Install react plugin & dependencies**
 ```
     npm install @vitejs/plugin-react -E
     npm install react react-dom -E
