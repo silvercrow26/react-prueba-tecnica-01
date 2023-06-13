@@ -11,19 +11,26 @@ APIs:
 
 Pasos: 
 
-1.- Create react project 
+## 1.- Create react project
+```
     npm create vite@lastest -> Vanilla(No react template) 
-
-2.- Install react plugin & dependencies(Library and )
+```
+## 2.- Install react plugin & dependencies(Library and )
+```
     npm install @vitejs/plugin-react -E
     npm install react react-dom -E
-
-3.- Install Inter
+```
+## 3.- Install Inter
+```
     npm install standard -D
+```
 
-
-4.- Configure Inter
+## 4.- Configure Inter
+```    
     package.json > add   "eslintConfig": {"extends":"./node_modules/standard/eslintrc.json"}
+```
 
-5.- Configure testing
+## 5.- Configure testing
+```
     npm init playwright
+```
