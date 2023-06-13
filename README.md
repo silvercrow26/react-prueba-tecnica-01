@@ -20,12 +20,12 @@ Pasos:
     npm install @vitejs/plugin-react -E
     npm install react react-dom -E
 ```
-## 3.- Install Inter
+## 3.- Install ESLint
 ```
     npm install standard -D
 ```
 
-## 4.- Configure Inter
+## 4.- Configure ESLint
 ```    
     package.json > add   "eslintConfig": {"extends":"./node_modules/standard/eslintrc.json"}
 ```
