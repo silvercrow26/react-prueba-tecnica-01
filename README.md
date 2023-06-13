@@ -27,7 +27,7 @@ APIs:
 
 **4.- Configure ESLint**
 ```    
-    package.json > add   "eslintConfig": {"extends":"./node_modules/standard/eslintrc.json"}
+    package.json > add "eslintConfig": {"extends":"./node_modules/standard/eslintrc.json"}
 ```
 
 **5.- Configure testing**
